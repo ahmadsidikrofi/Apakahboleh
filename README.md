@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rofi
 - 👀 I’m interested in WAD
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on Any Group can support me
+- 💞️ I’m looking girl
 - 📫 Contact me 089502909070
 
 <!---
