@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rofi
-- 👀 I’m interested in WAD
+- 👀 I’m interested in Ngoding
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking girl
 - 📫 Contact me 089502909070
