@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rofi
 - 👀 I’m interested in Ngoding
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking girl
+- 💞️ I’m looking girl (emang eak)
 - 📫 Contact me 089502909070
 
 <!---
